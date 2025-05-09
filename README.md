@@ -1,4 +1,4 @@
-[## Hi there 👋](https://l.messenger.com/l.php?u=https%3A%2F%2Fgithub-readme-stats.vercel.app%2Fapi%3Fusername%3DNgo-Tu%26show_icons%3Dtrue%26theme%3Ddefault&h=AT0ad9z9yyW2auSsrJG-7nlDKbthV3UTp_-qkO8UngPAb7Il-YoP0vZaTdkcLhyg8_GSrLrdsJJClzcb9PKnLcK2H9d5lNhU9IZTwgriKTlER7wxSNp08Aitc5MNtxq7tqiFOQ)
+
 
 <!--
 **Ngo-Tu/Ngo-Tu** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
